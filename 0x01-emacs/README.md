@@ -1,13 +1,13 @@
 # Emacs <<project--946>>
 
 In this project, I learned about Emacs
-<p>
-  <img
+ <img style="max-height: 100px;vertical-align: top;"
    src="https://www.gnu.org/software/emacs/images/emacs.png"
    alt="emacs logo">
-   <h1>GNU Emacs</h1>
-</p>
-
+<h1 style=
+    "display: inline;font-size: 4em;line-height: 110px;margin: 0 10px;font-weight: 600;">
+    GNU Emacs
+</h1>
 ## Tasks :page_with_curl:
 
 * **Opening**
