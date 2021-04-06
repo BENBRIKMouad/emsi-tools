@@ -1,7 +1,7 @@
 # Emacs <<project--946>>
 
 In this project, I learned about Emacs
-<p align="center">
+<p>
   <img
    src="https://www.gnu.org/software/emacs/images/emacs.png"
    alt="emacs logo">
