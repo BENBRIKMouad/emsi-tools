@@ -2,15 +2,15 @@
 
 In this project, I learned about Emacs
 
-<div> 
-<img style="max-height: 100px;vertical-align: top;"
+
+<a href="https://www.gnu.org/software/emacs/documentation.html"><img style="max-height: 100px;vertical-align: top;"
    src="https://www.gnu.org/software/emacs/images/emacs.png"
    alt="emacs logo">
+   </a>
 <h1 style=
     "display: inline;font-size: 4em;line-height: 110px;margin: 0 10px;font-weight: 600;">
     GNU Emacs
 </h1>
-</div>
 
 ## Tasks :page_with_curl:
 
