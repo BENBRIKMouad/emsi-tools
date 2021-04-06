@@ -1,6 +1,7 @@
 # Emacs <<project--946>>
 
 In this project, I learned about Emacs
+
  <img style="max-height: 100px;vertical-align: top;"
    src="https://www.gnu.org/software/emacs/images/emacs.png"
    alt="emacs logo">
