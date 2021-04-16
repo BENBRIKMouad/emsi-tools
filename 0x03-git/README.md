@@ -19,7 +19,9 @@ prepares students for careers in the tech industry using project-based peer lear
 more information, visit [this link](https://www.holbertonschool.com/).
 
 <p align="center">
+
   <img
    src="http://www.holbertonschool.com/holberton-logo.png"
    alt="Holberton School logo">
+   
 </p>
