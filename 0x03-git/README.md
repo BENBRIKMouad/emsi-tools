@@ -1,17 +1,13 @@
 # EMSI-Tools
 
-This repository contains files written for Vagrant, Emacs, and vi projects
-completed.The specific list of projects contained follows:
+This repository contains files written for github
 
-* [0x00. Vagrant](./0x00-vagrant)
-* [0x01. Emacs](./0x01-emacs)
-* [0x02. vi](./0x02-vi)
 
 ## Author :black_nib:
 
 * __Benbrik Mouad__ <[BenbrikMouad](https://github.com/BENBRIKMouad)>
 
-## Acknoledgements :pray:
+## Acknoledgements 💭
 
 All work contained in this project was completed as part of the curriculum for Holberton
 School. Holberton School is a campus-based full-stack software engineering program that
